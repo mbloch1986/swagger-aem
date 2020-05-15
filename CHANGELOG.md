@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- Add new API Call to setup SSL on AEM via granite
+
 ## 3.2.0 - 2020-04-16
 ### Added
 - Add client generation for all languages supported by OpenAPI Generator
